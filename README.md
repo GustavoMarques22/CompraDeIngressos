@@ -64,6 +64,6 @@ Se quiser melhorar a aplicação (ex: adicionar login, botão de limpar carrinho
 
 ---
 
-Feito com dedicação por \[Gustavo Marques](https://github.com/GustavoMarques22) 💙
+Feito com dedicação por \[Gustavo Marques](https://github.com/GustavoMarques22)💙
 
 ---
