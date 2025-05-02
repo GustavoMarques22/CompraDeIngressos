@@ -55,7 +55,7 @@ e-Ticket/
 
 ## ✨ Demonstração
 
-![Demonstração do e-Ticket](./assets/demo-eticket.png)
+![Demonstração do e-Ticket](./ingresso/assets/IngressosOnline.png/)
 
 ## 🤝 Contribuições
 
@@ -64,6 +64,6 @@ Se quiser melhorar a aplicação (ex: adicionar login, botão de limpar carrinho
 
 ---
 
-Feito com dedicação por \[Seu Nome ou Link do GitHub] 💙
+Feito com dedicação por \[Gustavo Marques](https://github.com/GustavoMarques22) 💙
 
 ---
